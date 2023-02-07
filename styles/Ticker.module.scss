@@ -1,0 +1,27 @@
+.detailsdiv{
+  
+  padding: 7px 15px;
+  border-radius: 4px;
+  background-color: white;
+  margin-bottom: 12px;
+
+}
+.details{
+  font-size: 1.3rem;
+  color: rgb(88, 86, 86);
+  display: inline;
+  line-height: 1.5;
+
+  a{
+    color: rgb(255, 102, 0);
+    text-decoration: underline;
+  }
+
+}
+
+.detailspan{
+  line-height: 1.5;
+  font-size: 1.3rem;
+  display: inline;
+  color: black;
+}
